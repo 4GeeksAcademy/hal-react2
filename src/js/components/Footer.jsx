@@ -1,9 +1,15 @@
 
-export const Footer = () =>  {
+export const Footer = () => {
+  // 3 Cocde JS
 
-
-    return {
-        <div className="d-flex flex-column min-vh-100">
-</div>
-    }
+  // 4 Retornamos 1 HTML
+  return (
+    <div className="mt-auto">
+      <hr />
+      <p className="alert alert-secondary mb-0">
+        Made with ❤️ by <a href="http://www.4geeksacademy.com">4Geeks Academy</a>
+        , Héctor y Álvaro para la cohorte Spain-{100 + 8}
+      </p>
+    </div>
+  )
 }

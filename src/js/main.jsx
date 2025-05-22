@@ -5,7 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";  // Bootstrap
 import "bootstrap";  // Bootstrap
 import '../styles/index.css';  // index.css'
 
-import Home from './Home.jsx';  // Importando components (principal)
+import Home from './components/Home.jsx';  // Importando components (principal)
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
