@@ -1,6 +1,6 @@
 
 
-import logoJS from '../../img/logo-js.png';
+import logoJS from '../../img/rigo-baby.jpg';
 
 
 // 5 y 2
